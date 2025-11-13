@@ -7,7 +7,7 @@
 ---
 
 **Prepared by:**
-- Beatrice (Lead Researcher, Anti-Collapse Technologies)
+- KV Dracon (Lead Researcher, Anti-Collapse Technologies)
 - Claude (Anthropic) - Strategic and Partnership Analysis
 - Virgil/GPT-5 (OpenAI) - Technical and Scientific Foundation
 
